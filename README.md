@@ -20,7 +20,12 @@ L'application  offre les fonctionnalités suivantes :
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/f69ca2f3-e26b-4523-8546-1e364d997751)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/932c0c87-8d59-441a-b53b-862da889d22a)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/f6ad6455-a7fa-41b7-80b3-a01ed85e9696)
- 
+- **Gestion des Marques**
+
+ ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/f71188bc-387f-4e39-b79b-c1b8a5b4cc37)
+![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/6833eb53-1680-43e6-9bf0-64817c1441d6)
+- **Gestion des Machines**
+![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/e8511934-b628-43c4-92e0-6d34b2d34a23)
 
 
 

@@ -26,8 +26,8 @@ L'application  offre les fonctionnalités suivantes :
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/6833eb53-1680-43e6-9bf0-64817c1441d6)
 - **Gestion des Machines**
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/e8511934-b628-43c4-92e0-6d34b2d34a23)
-**Filtre par marque et par reference**
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/e5889c52-99ab-4152-b4d4-5158e833277e)
+**Filtre par marque et par reference**
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/5990debb-c2ff-4e19-98d2-fc09209d6568)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/321e66e3-ff6d-48f4-9e59-9e229106ee9a)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/bdc10c24-f57d-44cd-9f1c-3e8a7d4cb9d6)

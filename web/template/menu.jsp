@@ -16,7 +16,7 @@
 
     a {
         text-decoration: none;
-        color: #f8e0e0;
+        color: #00000;
         display: block;
         padding: 10px;
         border-radius: 5px;
@@ -41,5 +41,6 @@
             <li><a href="machineForm.jsp">Gestion des machines</a></li>
             <li><a href="machineByMarqueForm.jsp">Machines par marque</a></li>
             <li><a href="machineByReference.jsp">Machines par référence</a></li>
+            <li><a href="graph.jsp">graph</a></li>
         </ul>
     </div>

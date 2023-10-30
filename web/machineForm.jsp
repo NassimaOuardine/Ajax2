@@ -44,15 +44,25 @@
 
         .tab th {
             background-color: #f8e0e0; /* Changed to the new color */
-            color: white;
+            color: black;
         }
 
-        .bndelete, .bnupdate {
-            background-color: #f8e0e0; /* Changed to the new color */
+        .bnupdate {
+            background-color: #2efe16;
             color: white;
             padding: 5px 10px;
             border: none;
             cursor: pointer;
+            text-decoration: none;
+        }
+
+        .bndelete {
+            background-color: #f40a0a;
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
         }
 
         .bndelete:hover, .bnupdate:hover {
@@ -100,7 +110,7 @@
                     <tr>
                         <td></td>
                         <td>
-                            <input name="op" type="submit" value="Envoyer" />
+                            <input name="op" type="submit" value="Envoyer" class="bnupdate" />
                         </td>
                     </tr>
                 </table>
@@ -116,7 +126,7 @@
                     <tr>
                         <th>Id</th>
                         <th>Reference <br>
-                            <input id="Ref" type="text" name="ref" value="" /></th>
+                            </th>
                         <th>Prix</th>
                         <th>Marque</th>
                         <th>Date d'achat</th>

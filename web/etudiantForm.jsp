@@ -41,7 +41,7 @@
 
         .tab th {
             background-color: #f8e0e0;
-            color: white;
+            color: black ;
         }
         .bnupdate {
             background-color: #f6350a;
@@ -80,6 +80,32 @@
                         <td>Prenom</td>
                         <td><input id="prenom" type="text" name="prenom" value="" required="" /></td>
                     </tr>
+                    <tr>
+                            <td>Ville</td>
+                            <td>
+                                <select id="ville" name="ville">
+                                    <option value="Rabat">Rabat</option>
+                                    <option value="Fes">Fes</option>
+                                    <option value="Marakech">Marrakech</option>
+
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Date de naissance</td>
+                            <td><input id="date" type="date" name="dateNaissance" value="" required="" /></td>
+                        </tr>
+                        <tr>
+                            <td>Sexe</td>
+                            <td>M<input id="m" type="radio" name="sexe" value="homme" />
+                                F<input id="f" type="radio" name="sexe" value="femme" checked="checked" /></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input name="op" type="submit" value="Envoyer" class="bnupdate" />
+                            </td>
+                        </tr>
                     <!-- Rest of your form -->
                 </table>
             </fieldset>
@@ -94,7 +120,7 @@
                     <tr>
                         <th>Id</th>
                         <th>Nom <br>
-                            <input id="f" type="text" name="f" value="" /></th>
+                            </th>
                         <th>Prenom</th>
                         <th>Ville</th>
                         <th>Date de naissance</th>

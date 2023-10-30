@@ -46,7 +46,7 @@
 
         .tab th {
             background-color: #f8e0e0;
-            color: white;
+            color: black;
         }
         .bnupdate {
             background-color: #2efe16;

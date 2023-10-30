@@ -48,7 +48,7 @@
 
         .tab th {
             background-color: #f8e0e0;
-            color: white;
+            color: black;
         }
 
         select {
@@ -114,8 +114,7 @@
                 <thead>
                     <tr>
                         <th>Id</th>
-                        <th>Reference <br>
-                            <input id="f" type="text" name="f" value="" />
+                        <th>Reference 
                         </th>
                         <th>Prix</th>
                         <th>Marque</th>

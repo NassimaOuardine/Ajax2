@@ -16,6 +16,10 @@ L'application  offre les fonctionnalités suivantes :
 - **Filtrer les machines par marques et par references**
 
  ## Les interfaces de l'application 
+- **Gestion des Étudiants**
+![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/f69ca2f3-e26b-4523-8546-1e364d997751)
+![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/932c0c87-8d59-441a-b53b-862da889d22a)
+![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/f6ad6455-a7fa-41b7-80b3-a01ed85e9696)
  
 
 

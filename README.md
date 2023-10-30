@@ -27,10 +27,13 @@ L'application  offre les fonctionnalités suivantes :
 - **Gestion des Machines**
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/e8511934-b628-43c4-92e0-6d34b2d34a23)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/e5889c52-99ab-4152-b4d4-5158e833277e)
-**Filtre par marque et par reference**
+**Filtrer les machines par marque et par reference**
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/5990debb-c2ff-4e19-98d2-fc09209d6568)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/321e66e3-ff6d-48f4-9e59-9e229106ee9a)
 ![image](https://github.com/NassimaOuardine/Ajax2/assets/147509426/bdc10c24-f57d-44cd-9f1c-3e8a7d4cb9d6)
+**Graphe qui présente le nombre de machine par marque**
+![WhatsApp Image 2023-10-30 at 23 44 52](https://github.com/NassimaOuardine/Ajax2/assets/147509426/58898a0e-a5cc-422d-9bae-73638c21ffe9)
+
 
 
 
